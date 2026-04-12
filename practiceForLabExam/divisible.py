@@ -1,6 +1,6 @@
 num = int (input("Enter the number: "))
 
-if num%2==0:
+if num%5==0:
     print("Ther number is divisible by 5")
 
 else:
